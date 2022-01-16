@@ -18,9 +18,9 @@ to Radomir
 Sergey Dolmatov  
 is dedicated
 
-1-e послание Иоанна 4:1-4
+1e Послание Иоанна 4:1-6
 
-1 John 4:1-4
+1st Epistle of John 4:1-6
 
 ---
 
