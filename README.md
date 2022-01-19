@@ -31,7 +31,12 @@ is dedicated
 ---
 
 # Исток во Мне
-The Source in Me
+**The Source in Me**
+
+[ключи для переводов][transl_keys]  
+[keys for translations][transl_keys]
+
+[transl_keys]: transl-keys.md
 
 Солдаты шли в последний бой,  
 Войска на поле грохотали...  
