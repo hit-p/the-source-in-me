@@ -81,3 +81,8 @@ Henceforth I call you not servants; for the servant knoweth not what his lord do
 **1.15.30**
 
 ---
+
+**"Исток-Меч-Ты"** - "Исток Мечты"  
+"Source-Sword-Thou" - "The Source of The Desire"
+
+---
