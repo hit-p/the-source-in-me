@@ -59,7 +59,7 @@ The word**game** with adverbial participial turnover.
 "Азъ ИЗ-Меня, ..."  
 "Atman FROM-Me, ..."  
 "Atman formi, ..."  
-"atman asmi rupa"
+"atman", "asmi", "rupa"
 
 "В-Друг ИЗ-Меня, ..."  
 "IN-Friend FROM-Me, ..."  
