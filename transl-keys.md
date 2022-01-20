@@ -96,3 +96,13 @@ but - special meaning in music
 "Source-Sword-Thou" - "The Source of The Desire"
 
 ---
+
+**Венцом тернов из белых роз**  
+**С Истоком - в Нас Иисус Христос!**
+
+In white corolla of roses -  
+Ahead - Jesus Christos goes.
+
+\- Alexander Blok, The Twelve
+
+---
