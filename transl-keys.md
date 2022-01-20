@@ -25,8 +25,18 @@ Verse of the Song ["The Source in Me"][The_Source_in_Me]
 
 ---
 
-"Азъ ИЗ-Меня, ..."  
-"В-Друг ИЗ-Меня, ..."
+**"солдаты"** - "soldiers"  
+**"бойцы"** - "fighters"
+
+---
+
+**"Немым"** - "немой" - "Не Мой"  
+"dumb" - "Not Mine"
+
+---
+
+**"Азъ ИЗ-Меня, ..."**  
+**"В-Друг ИЗ-Меня, ..."**
 
 **Игра** слов с деепричастным оборотом.  
 The word**game** with adverbial participial turnover.
