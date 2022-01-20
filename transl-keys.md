@@ -82,6 +82,16 @@ Henceforth I call you not servants; for the servant knoweth not what his lord do
 
 ---
 
+**"строй и лад"**  
+
+"строй" ~ "tune", or even, "system" and "structure" too, about music or poetry,  
+but - "line", "formation", "order" about other, and also, "system" and "structure"
+
+"лад" - "mode", "mood", "harmony", "concord"  
+but - special meaning in music
+
+---
+
 **"Исток-Меч-Ты"** - "Исток Мечты"  
 "Source-Sword-Thou" - "The Source of The Desire"
 
