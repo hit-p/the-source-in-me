@@ -28,10 +28,18 @@ Verse of the Song ["The Source in Me"][The_Source_in_Me]
 **"солдаты"** - "soldiers"  
 **"бойцы"** - "fighters"
 
+...авто-перевод часто смешивает эти слова.  
+...auto-translation often mixes these words.
+
 ---
 
-**"Немым"** - "немой" - "Не Мой"  
-"dumb" - "Not Mine"
+**"Немым"** - "немой" -> "Не Мой"  
+"dumb" -> "Not Mine"
+
+Это также относится и к различным  
+*"пост-конфликтным синдромам"*.  
+This is also true of various  
+*"post-conflict syndromes"*.
 
 ---
 
