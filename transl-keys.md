@@ -43,6 +43,21 @@ This is also true of various
 
 ---
 
+**Азъ** (Есмь) - Исток  
+Atma(n) (Asmi) - is The Source
+
+Sanskrit: 
+**is-toka**
+"is", "ista", "isti" - ...  
+"toka" - ...
+
+English: "As", "At"
+
+(остальные толкования будут позже)  
+(other comments will be later)
+
+---
+
 **"Азъ Изъ-Меня Жь, ..."**  
 **"Въ-Другъ Изъ-Меня Жь, ..."**
 
