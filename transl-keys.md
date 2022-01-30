@@ -43,8 +43,26 @@ This is also true of various
 
 ---
 
-**"Азъ ИЗ-Меня, ..."**  
-**"В-Друг ИЗ-Меня, ..."**
+**Азъ** (Есмь) - Исток  
+Atma(n) (Asmi) - is The Source
+
+Sanskrit: 
+**is-toka**
+"is", "ista", "isti" - ...  
+"toka" - ...
+
+English: "As", "At"
+
+(остальные толкования будут позже)  
+(other comments will be later)
+
+---
+
+**"Азъ Изъ-Меня Жь, ..."**  
+**"Въ-Другъ Изъ-Меня Жь, ..."**
+
+(отредактировано - больше толкований будет позже)  
+(edited - more comments will be later)
 
 **Игра** слов с деепричастным оборотом.  
 The word**game** with adverbial participial turnover.
@@ -97,6 +115,14 @@ but - "line", "formation", "order" about other, and also, "system" and "structur
 
 "лад" - "mode", "mood", "harmony", "concord"  
 but - special meaning in music
+
+---
+
+**Азъ Богъ Жь, Какъ Люди Мыслятъ Нашь Онъ**  
+**Покой Рьци Слово Твердъ Укладъ!**  
+
+(толкования будут позже)  
+(comments will be later)
 
 ---
 
