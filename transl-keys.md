@@ -21,7 +21,7 @@ Peter Hitnikov
 Стихи Песни ["Исток во Мне"][The_Source_in_Me]  
 Verse of the Song ["The Source in Me"][The_Source_in_Me]
 
-[The_Source_in_Me]: .
+[The_Source_in_Me]: README.md
 
 ---
 
