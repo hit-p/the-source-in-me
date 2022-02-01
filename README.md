@@ -37,8 +37,10 @@ is dedicated
 
 [transl_keys]: transl-keys.md
 
-Официально, автором музыки считается [Н. П. Девитте][Devitte_ru], современник и личный знакомый Пушкина.  
-Officially, [N. P. Devitte][Devitte_en], a contemporary and personal acquaintance of Pushkin, is considered the author of the music.
+Официально, автором МУЗЫКИ считается [Н.П.Девитте][Devitte_ru],  
+современник и личный знакомый Пушкина.  
+Officially, [N.P.Devitte][Devitte_en], a contemporary and personal acquaintance of Pushkin,  
+is considered the author of the MUSIC.
 
 [Мелодия][Melody]  
 [The Melody][Melody]
