@@ -37,6 +37,14 @@ is dedicated
 
 [transl_keys]: transl-keys.md
 
+Официально, автором музыки считается [Н. П. Девитте][Devitte_ru], современник и личный знакомый Пушкина.  
+Officially, [N. P. Devitte][Devitte_en], a contemporary and personal acquaintance of Pushkin, is considered the author of the music.
+
+[Мелодия][Melody]  
+[The Melody][Melody]
+
+[Melody]: melody.md
+
 Солдаты шли в последний бой,  
 Войска на поле грохотали,  
 "Не для меня!" - бойцы шептали,  
@@ -103,3 +111,7 @@ is dedicated
 И Ока Свет - Исток в ночи!
 
 ---
+
+[Devitte_ru]: https://ru.wikipedia.org/wiki/Девитте,_Николай_Петрович
+
+[Devitte_en]: https://en.wikipedia.org/wiki/Nikolai_Devitte
